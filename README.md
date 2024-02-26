@@ -28,22 +28,22 @@
 I am a Full Stack Developer with a twist—I hold a university degree in English, and my journey is a fusion of language expertise and programming prowess.
 
 **Technical Proficiency:**
-At the heart of my development journey are the technologies that drive innovation. Proficient in REACT, NodeJS, VITE, CSS Frameworks, among others, I bring a robust skill set that empowers me to craft seamless and efficient solutions. Whether it's building dynamic and appealing user interfaces or optimizing server-side performance, I thrive on the versatility these technologies offer.
+At the heart of my development journey are the technologies that drive innovation. I am proficient in HTML, CSS, and JavaScript, and specialize in crafting appealing and highly interactive user interfaces. Leveraging frameworks like React.js, and Next.js I create dynamic web applications that engage users and deliver distinct experiences. I strive to create web experiences that tell stories and transmit emotions.
 
-**Communication Excellence:**
-My background as an interpreter and translator has cultivated my precision in communication. In the world of coding, attention to detail is paramount, and my linguistic background equips me with a unique ability to articulate complex ideas clearly, both in writing and verbally.
+**Design Excellence**
+With a keen eye for design and a focus on user experience, I excel at transforming concepts into aesthetically pleasing interfaces. My background in UI/UX design allows me to blend creativity with functionality, ensuring that every pixel serves a purpose. 
 
-**Global Impact:**
-Having navigated through different cultures and languages, I understand the importance of global collaboration. In an era where software development transcends borders, my proficiency in English and Spanish is not just a linguistic asset but a bridge between diverse perspectives.
+**Communication and Collaboration:**
+As a bilingual communicator and team leader, I value the importance of clear and effective communication in collaborative environments. Drawing from my experience as a translator and English teacher, I excel at articulating complex ideas and collaborating with cross-functional teams to bring projects to fruition.
 
 **Versatility and Adaptability:**
 As a team coordinator and English teacher, I honed skills crucial for any collaborative tech environment—organization, adaptability, time-management, and interpersonal communication. These roles have taught me to navigate dynamic scenarios and work effectively with individuals at all levels.
 
-**Continuous Learning and Problem-Solving:**
-I am not just a developer; I am a lifelong learner. My completion of various programming courses signifies my commitment to staying at the forefront of technological advancements. These courses have not only enhanced my logical thinking but also refined my problem-solving skills, a cornerstone in the realm of coding.
+**Continuous Learning Innovation:**
+Driven by a passion for learning and innovation, I am committed to staying at the forefront of web development trends and technologies. Whether it's participating in online courses, humbly listening to others, researching, or experimenting with new tools and techniques, I embrace opportunities for growth. My dedication to continuous learning fuels my creativity and allows me to push the boundaries of what's possible in web development.
 
 **Belief in Tech's Transformative Power:**
-I firmly believe that the roles of today and tomorrow are intertwined with computing. My journey reflects this belief—I am not just adapting; I am thriving in an environment where the language of technology merges seamlessly with the art of communication.
+In an era where software development transcends borders, and technology is our first language, I strive to positively impact user's lives through AI and technological initiatives. Whether it's building intuitive web applications or contributing to meaningful projects, I am committed to using technology as a force for good.
 
 **Technologies:**
 REACT
