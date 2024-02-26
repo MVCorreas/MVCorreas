@@ -30,7 +30,7 @@ I am a Full Stack Developer with a twist—I hold a university degree in English
 **Technical Proficiency:**
 At the heart of my development journey are the technologies that drive innovation. I am proficient in HTML, CSS, and JavaScript, and specialize in crafting appealing and highly interactive user interfaces. Leveraging frameworks like React.js, and Next.js I create dynamic web applications that engage users and deliver distinct experiences. I strive to create web experiences that tell stories and transmit emotions.
 
-**Design Excellence**
+**Design Excellence:**
 With a keen eye for design and a focus on user experience, I excel at transforming concepts into aesthetically pleasing interfaces. My background in UI/UX design allows me to blend creativity with functionality, ensuring that every pixel serves a purpose. 
 
 **Communication and Collaboration:**
