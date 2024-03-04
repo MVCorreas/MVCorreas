@@ -85,15 +85,13 @@ In essence, I am a goal-oriented, fully accountable, and well-organized professi
 <br/>  
 
   
-<hr>
-<Br>
-<h1 align="center">Get in Touch! 📬</h1>
+## Connect with me  
+<div align="center">
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/mar%C3%ADa-victoria-correas-148049b2/" target="blank"><img align="center" src="https://img.shields.io/badge/MariaVictoriaCorreas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:mvcorreas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/correasmv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/MVCorreas" target="blank"><img align="center" src="https://img.shields.io/badge/MVCorreas-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
-<hr>
-<Br>
+</div>
   
