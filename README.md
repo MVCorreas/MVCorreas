@@ -55,7 +55,7 @@ Bootstrap
 
 In essence, I am a goal-oriented, fully accountable, and well-organized professional who brings a rich tapestry of experience in English, Spanish, and programming. I am a developer, a connector, a problem solver, and a believer in the transformative power of technology. I am eager to contribute my unique blend of skills to dynamic software development teams.
 
-<br/>  
+ 
 
 
 ## My Skill Set  
