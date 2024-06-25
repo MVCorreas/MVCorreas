@@ -25,37 +25,17 @@
   </ul>
 </div>
 
-I am a Full Stack Developer with a twist—I hold a university degree in English, and my journey is a fusion of language expertise and programming prowess.
+Born in 1987, and into the Millennials family, my passion for software development appears to be generationally ingrained. Growing up alongside the Macintosh II, I witnessed the exponential growth of the internet and the revolution of Java. It was only natural for me to develop a love for technological milestones and their giant leaps towards web evolution.
 
-**Technical Proficiency:**
-At the heart of my development journey are the technologies that drive innovation. I am proficient in HTML, CSS, and JavaScript, and specialize in crafting appealing and highly interactive user interfaces. Leveraging frameworks like React.js, and Next.js I create dynamic web applications that engage users and deliver distinct experiences. I strive to create web experiences that tell stories and transmit emotions.
+However, I was not born a developer. Over 20 years ago, I began my career in English teaching and translation. It wasn’t until the pandemic that I discovered my passion for web development and its benefits for students, teachers and parents. My fever for learning the tech skills that could cure the obsolescence of lessons was at its highest.
 
-**Design Excellence:**
-With a keen eye for design and a focus on user experience, I excel at transforming concepts into aesthetically pleasing interfaces. My background in UI/UX design allows me to blend creativity with functionality, ensuring that every pixel serves a purpose. 
+I graduated in Full Stack Development in 2024, and have since been continuously enhancing my web development skills through a variety of projects and courses. 
 
-**Communication and Collaboration:**
-As a bilingual communicator and team leader, I value the importance of clear and effective communication in collaborative environments. Drawing from my experience as a translator and English teacher, I excel at articulating complex ideas and collaborating with cross-functional teams to bring projects to fruition.
+Today I am seeking new job opportunities where I can not only grow professionally, but also contribute to the outstanding footprint that software development is leaving on us today.
 
-**Versatility and Adaptability:**
-As a team coordinator and English teacher, I honed skills crucial for any collaborative tech environment—organization, adaptability, time-management, and interpersonal communication. These roles have taught me to navigate dynamic scenarios and work effectively with individuals at all levels.
-
-**Continuous Learning Innovation:**
-Driven by a passion for learning and innovation, I am committed to staying at the forefront of web development trends and technologies. Whether it's participating in online courses, humbly listening to others, researching, or experimenting with new tools and techniques, I embrace opportunities for growth. My dedication to continuous learning fuels my creativity and allows me to push the boundaries of what's possible in web development.
-
-**Belief in Tech's Transformative Power:**
-In an era where software development transcends borders, and technology is our first language, I strive to positively impact user's lives through AI and technological initiatives. Whether it's building intuitive web applications or contributing to meaningful projects, I am committed to using technology as a force for good.
-
-**Technologies:**
-REACT
-NodeJS and Express
-SQL
-NextJS
-Bootstrap
-
-
-In essence, I am a goal-oriented, fully accountable, and well-organized professional who brings a rich tapestry of experience in English, Spanish, and programming. I am a developer, a connector, a problem solver, and a believer in the transformative power of technology. I am eager to contribute my unique blend of skills to dynamic software development teams.
-
- 
+**Contact me:**
+**email:** correasmv@gmail.com
+**Portfolio:** https://full-stack-portfolio-seven.vercel.app/
 
 
 ## My Skill Set  
