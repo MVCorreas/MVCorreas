@@ -25,11 +25,11 @@
   </ul>
 </div>
 
-ABOUT ME
+**ABOUT ME**
 
 Proactive, creative and curious developer with a track record of delivering fast, high-quality solutions that solve user problems. I take initiative, seek better ways to do things, and learn quickly to adopt best practices. I thrive on tackling challenges, iterating rapidly without sacrificing quality, and collaborating across teams to turn ideas into measurable impact. Driven by a strong desire to grow, I reliably deliver results that improve the user experience and move the product forward.
 
-INTERESTS 
+**INTERESTS**
 
 I want to contribute to projects that generate measurable impact for end users, learn and apply the latest widely-used technologies, and grow professionally by tackling challenging problems within collaborative teams.
 
