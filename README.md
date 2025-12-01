@@ -25,11 +25,13 @@
   </ul>
 </div>
 
-Born in 1987, and into the Millennials family, my passion for software development appears to be generationally ingrained. Growing up alongside the Macintosh II, I witnessed the exponential growth of the internet and the revolution of Java. It was only natural for me to develop a love for technological milestones and their giant leaps towards web evolution.
+ABOUT ME
 
-However, I was not born a developer. Over 20 years ago, I began my career in English teaching and translation. It wasn’t until the pandemic that I discovered my passion for web development and its benefits for students, teachers and parents. My fever for learning the tech skills that could cure the obsolescence of lessons was at its highest.
+Proactive, creative and curious developer with a track record of delivering fast, high-quality solutions that solve user problems. I take initiative, seek better ways to do things, and learn quickly to adopt best practices. I thrive on tackling challenges, iterating rapidly without sacrificing quality, and collaborating across teams to turn ideas into measurable impact. Driven by a strong desire to grow, I reliably deliver results that improve the user experience and move the product forward.
 
-I graduated in Full Stack Development in 2024, and have since been continuously enhancing my web development skills through a variety of projects and courses. 
+INTERESTS 
+
+I want to contribute to projects that generate measurable impact for end users, learn and apply the latest widely-used technologies, and grow professionally by tackling challenging problems within collaborative teams.
 
 Today I am seeking new job opportunities where I can not only grow professionally, but also contribute to the outstanding footprint that software development is leaving on us today.
 
